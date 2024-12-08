@@ -1,0 +1,12 @@
+# Ignore all .log files
+*.log
+
+# Ignore the Docker build directory
+/build/
+
+# Ignore Python virtual environment
+venv/
+
+# Ignore system files
+.DS_Store
+Thumbs.db
